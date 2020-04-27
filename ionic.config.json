@@ -1,0 +1,8 @@
+{
+  "name": "RamsattRadio",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
